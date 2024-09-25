@@ -1,6 +1,6 @@
 ## About KiraraIO ✨
 
-The lab for research on human and machine interfaces for next centry.
+The lab for research on human and machine interfaces for next generation.
 
 The place holds the harmony and fun. 
 
